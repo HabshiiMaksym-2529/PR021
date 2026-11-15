@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441 \u041E\u041E\u041F\\PR2.x\\PR2.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6DDD5BE-BA06-4DDF-AB44-80982C31C66E}|PR2.1.vcxproj|E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441 \u041E\u041E\u041F\\PR2.x\\PR2.1\\PR2.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6DDD5BE-BA06-4DDF-AB44-80982C31C66E}|PR2.1.vcxproj|solutionrelative:PR2.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6DDD5BE-BA06-4DDF-AB44-80982C31C66E}|PR2.1.vcxproj|E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441 \u041E\u041E\u041F\\PR2.x\\PR2.1\\IntPower.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6DDD5BE-BA06-4DDF-AB44-80982C31C66E}|PR2.1.vcxproj|solutionrelative:IntPower.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6DDD5BE-BA06-4DDF-AB44-80982C31C66E}|PR2.1.vcxproj|E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441 \u041E\u041E\u041F\\PR2.x\\PR2.1\\IntPower.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6DDD5BE-BA06-4DDF-AB44-80982C31C66E}|PR2.1.vcxproj|solutionrelative:IntPower.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E09DA0-1476-54AE-47FD-907986AF55B4}|UnitTest2.1\\UnitTest2.1.vcxproj|E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441 \u041E\u041E\u041F\\PR2.x\\PR2.1\\UnitTest2.1\\UnitTest2.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3E09DA0-1476-54AE-47FD-907986AF55B4}|UnitTest2.1\\UnitTest2.1.vcxproj|solutionrelative:UnitTest2.1\\UnitTest2.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 230,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest2.1.cpp",
+              "DocumentMoniker": "E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441 \u041E\u041E\u041F\\PR2.x\\PR2.1\\UnitTest2.1\\UnitTest2.1.cpp",
+              "RelativeDocumentMoniker": "UnitTest2.1\\UnitTest2.1.cpp",
+              "ToolTip": "E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441 \u041E\u041E\u041F\\PR2.x\\PR2.1\\UnitTest2.1\\UnitTest2.1.cpp",
+              "RelativeToolTip": "UnitTest2.1\\UnitTest2.1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-15T21:59:57.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IntPower.cpp",
+              "DocumentMoniker": "E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441 \u041E\u041E\u041F\\PR2.x\\PR2.1\\IntPower.cpp",
+              "RelativeDocumentMoniker": "IntPower.cpp",
+              "ToolTip": "E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441 \u041E\u041E\u041F\\PR2.x\\PR2.1\\IntPower.cpp",
+              "RelativeToolTip": "IntPower.cpp",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwEgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-15T21:42:09.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IntPower.h",
+              "DocumentMoniker": "E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441 \u041E\u041E\u041F\\PR2.x\\PR2.1\\IntPower.h",
+              "RelativeDocumentMoniker": "IntPower.h",
+              "ToolTip": "E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441 \u041E\u041E\u041F\\PR2.x\\PR2.1\\IntPower.h",
+              "RelativeToolTip": "IntPower.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-15T21:41:46.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PR2.1.cpp",
+              "DocumentMoniker": "E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441 \u041E\u041E\u041F\\PR2.x\\PR2.1\\PR2.1.cpp",
+              "RelativeDocumentMoniker": "PR2.1.cpp",
+              "ToolTip": "E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441 \u041E\u041E\u041F\\PR2.x\\PR2.1\\PR2.1.cpp",
+              "RelativeToolTip": "PR2.1.cpp",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAuwGEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-15T21:14:57.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 546,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
